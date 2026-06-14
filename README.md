@@ -8,6 +8,10 @@
 
 ### Operating Systems
 
-[Classic 7](https://classic7.lol/) - Modified version of Windows 10 made to look like Windows 7.
+[Classic 7](https://classic7.lol/) - A modified version of Windows 10 made to look like Windows 7.
 
 [Mavericks Forever](https://mavericksforever.com/) - A collection of patches & software for Mac OS X Mavericks to make it suitable for use today.
+
+### Software
+
+[Geckium](https://github.com/angelbruni/geckium) - Custom CSS & JS mod for Firefox to make it look like old Chrome versions
