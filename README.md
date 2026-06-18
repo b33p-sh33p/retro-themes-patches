@@ -1,6 +1,6 @@
 # Retro Themes & Patches
 
-### Websites
+### Website Themes
 
 [Project VORAPIS/V3](https://vorapis.pages.dev/) - Extension that themes YouTube to look like the 2013 layout. Highly customizable.
 
@@ -8,16 +8,18 @@
 
 [Tumblr's Old Blue](https://userstyles.world/style/19079/) combined with [Old Tumblr Dashboard](https://userstyles.world/style/11286/) - Custom CSS for Tumblr to make it look like the old layout.
 
-### Operating Systems
+### Operating Systems & Patches
 
 [Classic 7](https://classic7.lol/) - A modified version of Windows 10 made to look like Windows 7.
 
 [Mavericks Forever](https://mavericksforever.com/) - A collection of patches & software for Mac OS X Mavericks to make it suitable for use today.
 
-### Software
+### Software Themes
 
 [Geckium](https://github.com/angelbruni/geckium) - Custom Firefox theme to make it look like old Chrome versions.
 
 [Echelon](https://github.com/echelon-theme/echelon) - Custom Firefox theme to make it look like older Firefox versions.
 
 [RetroBar](https://github.com/dremin/RetroBar) - Replaces Windows taskbar with taskbar from older versions (95-Vista)
+
+[AeroThemePlasma](https://github.com/aeroshell-desktop/aerothemeplasma) - Windows 7 theme for KDE Plasma.
