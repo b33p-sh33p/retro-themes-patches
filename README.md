@@ -16,4 +16,8 @@
 
 ### Software
 
-[Geckium](https://github.com/angelbruni/geckium) - Custom CSS & JS mod for Firefox to make it look like old Chrome versions.
+[Geckium](https://github.com/angelbruni/geckium) - Custom Firefox theme to make it look like old Chrome versions.
+
+[Echelon](https://github.com/echelon-theme/echelon) - Custom Firefox theme to make it look like older Firefox versions.
+
+[RetroBar](https://github.com/dremin/RetroBar) - Replaces Windows taskbar with taskbar from older versions (95-Vista)
