@@ -8,13 +8,9 @@
 
 [Tumblr's Old Blue](https://userstyles.world/style/19079/) combined with [Old Tumblr Dashboard](https://userstyles.world/style/11286/) - Custom CSS for Tumblr to make it look like the old layout.
 
-### Operating Systems & Patches
-
-[Classic 7](https://classic7.lol/) - A modified version of Windows 10 made to look like Windows 7.
-
-[Mavericks Forever](https://mavericksforever.com/) - A collection of patches & software for Mac OS X Mavericks to make it suitable for use today.
-
 ### Software Themes
+
+[Classic 7](https://classic7.lol/) - A modified Windows 10 ISO themed to look like Windows 7.
 
 [Geckium](https://github.com/angelbruni/geckium) - Custom Firefox theme to make it look like old Chrome versions.
 
@@ -23,3 +19,9 @@
 [RetroBar](https://github.com/dremin/RetroBar) - Replaces Windows taskbar with taskbar from older versions (95-Vista)
 
 [AeroThemePlasma](https://github.com/aeroshell-desktop/aerothemeplasma) - Windows 7 theme for KDE Plasma.
+
+### Backwards Compatibility
+
+[Mavericks Forever](https://mavericksforever.com/) - A collection of patches & software for Mac OS X Mavericks to make it suitable for use today.
+
+[RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to support more modern websites on older Windows versions (95-NT 4.0)
