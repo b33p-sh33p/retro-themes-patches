@@ -1,5 +1,10 @@
 # Retro Themes & Patches
 
+### Similar lists
+(found a lot of stuff on here from these lists)
+
+https://forum.spacehey.com/topic?id=94545
+
 ### Website Themes
 
 [Project VORAPIS/V3](https://vorapis.pages.dev/) - Extension that themes YouTube to look like the 2013 layout. Highly customizable.
@@ -19,6 +24,10 @@
 [RetroBar](https://github.com/dremin/RetroBar) - Replaces Windows taskbar with taskbar from older versions (95-Vista)
 
 [AeroThemePlasma](https://github.com/aeroshell-desktop/aerothemeplasma) - Windows 7 theme for KDE Plasma.
+
+[The Green Button](https://github.com/Doctor-Eggs/skin.theGreenButton/) - Kodi theme to make it look like Windows Media Center.
+
+[WMPotify](https://github.com/Ingan121/WMPotify) - Theme for Spotify to make it look like Windows Media Player 11.
 
 ### Backwards Compatibility
 
