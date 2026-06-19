@@ -3,6 +3,8 @@
 ### Similar lists
 (found a lot of stuff on here from these lists)
 
+https://frutigeraeroarchive.org/resources
+
 https://forum.spacehey.com/topic?id=94545
 
 https://forum.spacehey.com/topic?id=90895
@@ -44,3 +46,5 @@ https://forum.spacehey.com/topic?id=90895
 [Windows 7 Revived](https://w7revived.chefkiss.dev/) - A list with software & drivers backported to Windows 7.
 
 [Discord Messenger](https://github.com/DiscordMessenger/dm) - Discord client compatible with older Windows versions (Windows 2000+)
+
+[Ruffle](https://ruffle.rs/) - Brings Flash support back to modern browsers
