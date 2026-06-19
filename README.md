@@ -5,9 +5,13 @@
 
 https://forum.spacehey.com/topic?id=94545
 
+https://forum.spacehey.com/topic?id=90895
+
 ### Website Themes
 
-[Project VORAPIS/V3](https://vorapis.pages.dev/) - Extension that themes YouTube to look like the 2013 layout. Highly customizable.
+[Project VORAPIS/V3](https://vorapis.pages.dev/) - Extension that themes YouTube to look like the 2013 layout. Use with [StarTube](https://github.com/lightbeam24/StarTube) to customize further (more eras)
+
+- Also see: [bygone-yt](https://greasyfork.org/en/scripts/580843-bygone-yt) - date filter to be used with V3. Makes it only show videos posted before a certain date that you set.
 
 [Gmail Classic Renewed](https://github.com/Firebladedoge229/gmail-classic-renewed) - Custom CSS for Gmail based on the 2014 layout.
 
@@ -36,3 +40,5 @@ https://forum.spacehey.com/topic?id=94545
 [RetroZilla](https://github.com/rn10950/RetroZilla) - A fork of Gecko 1.8.1 to support more modern websites on older Windows versions (95-NT 4.0)
 
 [Windows 7 Revived](https://w7revived.chefkiss.dev/) - A list with software & drivers backported to Windows 7.
+
+[Discord Messenger](https://github.com/DiscordMessenger/dm) - Discord client compatible with older Windows versions (95+)
